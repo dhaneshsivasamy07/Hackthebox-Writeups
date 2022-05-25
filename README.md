@@ -3,6 +3,7 @@ List of writeups for the machines I did
 
 # Active Machines
 - Protected by the root shadow / Administrator's NTLM hash
+- Hash String to unlock the PDF are mentioned in "*"'s
 
 ## Timelapse
 ```bash
